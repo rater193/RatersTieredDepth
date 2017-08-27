@@ -1,0 +1,11 @@
+main: com.rater193.rtd.RatersTieredDepth
+name: Raters Tiered Depth
+version: 1.0
+author: rater193
+description: Makes it more challenging to mine
+commands:
+  mycommand:
+    description: An example command
+    usage: /mycommand
+    permission: myplugin.mycommand
+    permission-message: You don't have the myplugin.mycommand permission.
